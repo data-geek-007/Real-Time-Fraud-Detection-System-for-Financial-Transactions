@@ -1,7 +1,8 @@
 # 🔍 Real-Time Fraud Detection Engine 
 *A high-performance data pipeline detecting payment fraud using Spark Streaming, Kafka, and Machine Learning*
 
-![Architecture Diagram]([docs/architecture.png](https://github.com/data-geek-007/Real-Time-Fraud-Detection-System-for-Financial-Transactions/blob/main/architecture.png))
+![Architecture Diagram](https://raw.githubusercontent.com/data-geek-007/Real-Time-Fraud-Detection-System-for-Financial-Transactions/main/architecture.png)
+
 [![Scala](https://img.shields.io/badge/Scala-2.12-red)](https://scala-lang.org)
 [![Spark](https://img.shields.io/badge/Spark-3.3.0-blue)](https://spark.apache.org)
 [![License](https://img.shields.io/badge/License-Apache_2.0-green)](LICENSE)
