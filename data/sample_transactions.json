@@ -1,0 +1,16 @@
+[
+  {
+    "transaction_id": "txn_001",
+    "user_id": "user_123",
+    "amount": 129.99,
+    "merchant": "Amazon",
+    "location": "US"
+  },
+  {
+    "transaction_id": "txn_002",
+    "user_id": "user_456",
+    "amount": 2500.00,
+    "merchant": "BestBuy",
+    "location": "CN"
+  }
+]
